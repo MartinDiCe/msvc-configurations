@@ -1,4 +1,3 @@
-
 # Microservicio de Configuraciones (msvc-configurations)
 
 `msvc-configurations` es un microservicio diseñado para gestionar los parámetros y configuraciones del sistema de forma centralizada. Este servicio permite la creación, actualización y eliminación de parámetros que pueden ser utilizados por otros microservicios dentro de la arquitectura.
@@ -59,7 +58,7 @@ msvc.authorization.url=http://localhost:8003/api
 - `DELETE /api/parameters/delete/{parameterId}`: Elimina un parámetro por su ID.
 - `GET /api/parameters/ListAll`: Obtiene todos los parámetros.
 
-Documentación detallada de la API disponible en: [[DOMINIO]/apidoc/webjars/swagger-ui/index.html]([DOMINIO]/apidoc/webjars/swagger-ui/index.html)
+Documentación detallada de la API disponible en: `[DOMINIO]:[PORT]/apidoc/webjars/swagger-ui/index.html`
 
 ## Contribuir
 
