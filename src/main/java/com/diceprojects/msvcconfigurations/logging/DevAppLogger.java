@@ -1,4 +1,4 @@
-package com.diceprojects.msvccompany.Logging;
+package com.diceprojects.msvcconfigurations.logging;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

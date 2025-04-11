@@ -1,4 +1,4 @@
-package com.diceprojects.msvcconfigurations.persistences.repositories.countriesRepository;
+package com.diceprojects.msvcconfigurations.persistences.repositories.countriesRepositories;
 
 import com.diceprojects.msvcconfigurations.persistences.models.entities.Countries;
 import org.springframework.data.r2dbc.repository.Query;

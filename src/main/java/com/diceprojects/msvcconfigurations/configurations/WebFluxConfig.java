@@ -1,4 +1,4 @@
-package com.diceprojects.msvccompany.Configurations;
+package com.diceprojects.msvcconfigurations.configurations;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.reactive.config.EnableWebFlux;

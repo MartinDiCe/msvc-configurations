@@ -1,4 +1,4 @@
-package com.diceprojects.msvccompany.Logging;
+package com.diceprojects.msvcconfigurations.logging;
 
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;

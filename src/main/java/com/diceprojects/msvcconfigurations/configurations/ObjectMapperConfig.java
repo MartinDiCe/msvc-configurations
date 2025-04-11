@@ -1,4 +1,4 @@
-package com.diceprojects.msvcconfigurations.config;
+package com.diceprojects.msvcconfigurations.configurations;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Bean;

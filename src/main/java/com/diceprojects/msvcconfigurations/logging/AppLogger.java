@@ -1,4 +1,4 @@
-package com.diceprojects.msvccompany.Logging;
+package com.diceprojects.msvcconfigurations.logging;
 
 /**
  * Interfaz que define las operaciones de logging.
