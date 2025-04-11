@@ -1,4 +1,4 @@
-package com.diceprojects.msvcconfigurations.context;
+package com.diceprojects.msvcconfigurations.Configurations;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
@@ -23,7 +23,7 @@ public class SwaggerConfig {
                 .info(new Info()
                         .title("API Documentation")
                         .version("v0.0.1")
-                        .description("Documentation msvc-configurations")
+                        .description("Documentation msvc-Company API")
                         .termsOfService("https://diceprojects.com/termOfService")
                         .license(new License().name("diceLicense").url("https://diceprojects/api/license")));
     }
